@@ -87,7 +87,7 @@
                     <li class="logo">
                         <a href="/">
                             <span class="logo__top"></span>
-                            <span class="logo__bottom"></span>
+                            <!-- <span class="logo__bottom"></span> -->
                         </a>
                     </li>
                     
